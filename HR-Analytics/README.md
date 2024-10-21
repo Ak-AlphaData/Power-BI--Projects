@@ -96,7 +96,7 @@ The dataset contains detailed employee data, including demographic information, 
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](visuals/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/Ak-AlphaData/Power-BI-Projects/blob/main/HR-Analytics/Dashboard.jpg)
 
 ---
 
