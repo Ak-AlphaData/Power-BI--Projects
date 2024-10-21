@@ -4,13 +4,13 @@ This repository contains a collection of Power BI projects that showcase various
 ## Repository Structure  
 Below is an overview of the folder structure:  
 
-📂 -Power-BI-Projects
-│
 ├── 📁HR_Data_Analytics
 │ ├── Dashboard.jpg
 │ ├── Dataset.csv
 │ ├── HR_Analytics.pbix
 │ └── Documentation.md
+
+
 
 ---
 
