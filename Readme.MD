@@ -5,12 +5,10 @@ This repository contains a collection of Power BI projects that showcase various
 Below is an overview of the folder structure:  
 
 ├── 📁HR_Data_Analytics
-│ ├── Dashboard.jpg
-│ ├── Dataset.csv
-│ ├── HR_Analytics.pbix
-│ └── Documentation.md
-
-
+│   ├── Dashboard.jpg
+│   ├── Dataset.csv
+│   ├── HR_Analytics.pbix
+│   ├── Documentation.md
 
 ---
 
