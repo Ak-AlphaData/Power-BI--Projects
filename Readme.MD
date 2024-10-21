@@ -2,13 +2,16 @@
 This repository contains a collection of Power BI projects that showcase various data analysis workflows, including data extraction, transformation, and loading (ETL) using Power Query, as well as data cleaning, reporting, and dashboard creation. Each project is structured with a dedicated folder containing relevant files, datasets, and reports.
 
 ## Repository Structure  
-Below is an overview of the folder structure:  
+Below is an overview of the folder structure:
 
-├── 📁HR_Data_Analytics
-│   ├── Dashboard.jpg
-│   ├── Dataset.csv
-│   ├── HR_Analytics.pbix
-│   ├── Documentation.md
+📂 **Power-BI-Projects**  
+│  
+├── 📁 **HR_Data_Analytics**  
+│   ├── Dashboard.jpg  
+│   ├── Dataset.csv  
+│   ├── HR_Analytics.pbix  
+│   ├── Documentation.md  
+
 
 ---
 
