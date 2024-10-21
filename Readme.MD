@@ -6,9 +6,9 @@ Below is an overview of the folder structure:
 
 📂 -Power-BI-Projects
 │
-├── 📁 Project_1_HR_Data_Analytics
+├── 📁HR_Data_Analytics
 │ ├── Dashboard.jpg
-| |── Dataset.csv
+| ├── Dataset.csv
 │ ├── HR_Analytics.pbix
 │ └── Documentation.md
 
@@ -40,7 +40,7 @@ Contains employee data with columns such as EmpID, Age, Attrition, Department, M
 ![Dashboard Screenshot](https://github.com/Ak-AlphaData/Power-BI-Projects/blob/main/HR-Analytics/Dashboard.jpg)  
 
 **Report File:**  
-[Download Employee Attrition Dashboard (.pbix)](https://github.com/Ak-AlphaData/Power-BI-Projects/blob/main/HR-Analytics/Employee_Attrition_Dashboard.pbix)  
+Report file [HR_Analytics(.pbix)](https://github.com/Ak-AlphaData/Power-BI-Projects/tree/main/HR-Analytics)  
 
 ---
 
